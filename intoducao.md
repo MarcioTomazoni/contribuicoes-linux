@@ -3,7 +3,7 @@
 Bem-vindo ao meu espaço de testes e aprendizado com Git e Markdown!
 
 ## Sobre Mim
-Sou um usuário intermediário de Linux, apaixonado por tecnologia desde 1990. Atualmente estou aprofundando meus conhecimentos em:
+Sou um usuário de Linux, apaixonado por tecnologia desde 1990. Atualmente estou aprofundando meus conhecimentos em:
 
 - 🐧 Linux (Ubuntu, Mint, etc.)
 - 🐳 Docker e containers
